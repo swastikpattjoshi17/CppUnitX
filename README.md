@@ -10,7 +10,7 @@
 
 ## Why I Built This
 
-Most SDET roles expect you to *use* testing tools. This project demonstrates that I understand how they work **internally** — macros, process isolation, signal handling, structured reporting, and CI integration — all from scratch in C++17.
+Most SDET roles expect you to *use* testing tools. This project demonstrates that I understand how they work **internally** — macros, process isolation, signal handling, structured reporting, and CI integration in C++17.
 
 ---
 
