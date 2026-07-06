@@ -86,7 +86,7 @@ TEST(ExceptionAssert, ThrowsBaseClass) {
 }
 
 TEST(ExceptionAssert, NoThrowCleanCode) {
-    ASSERT_NO_THROW(int x = 1 + 1; (void)x;);
+    ASSERT_NO_THROW(1 + 1);
 }
 
 // ─────────────────────────────────────────────
