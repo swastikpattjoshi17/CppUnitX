@@ -1,0 +1,12 @@
+build/
+*.o
+*.a
+*.so
+*.out
+*.dSYM/
+.DS_Store
+compile_commands.json
+.cache/
+*.xml
+*.json
+!CMakeLists.txt
