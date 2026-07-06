@@ -1,6 +1,6 @@
 # CppUnit-X
 
-**A Lightweight, Zero-Dependency C++ Unit Testing Framework — Built from Scratch**
+**A Lightweight, Zero-Dependency C++ Unit Testing Framework**
 
 [![CI](https://github.com/swastikpattjoshi17/CppUnitX/actions/workflows/ci.yml/badge.svg)](https://github.com/swastikpattjoshi17/CppUnitX/actions)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
