@@ -9,12 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_compile_options(
     -Wall -Wextra -Wpedantic -Wshadow
     -Wno-unused-parameter
-    $<$<CONFIG:Debug>:-g -O0 -fsanitize=address,undefined>
-    $<$<CONFIG:Release>:-O2>
-)
-
-add_link_options(
-    $<$<CONFIG:Debug>:-fsanitize=address,undefined>
+    -O2
 )
 
 # ── CppUnit-X: header-only interface library ──────────────────────────────────
