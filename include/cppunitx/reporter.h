@@ -9,6 +9,7 @@
 #include <vector>
 #include <iomanip>
 #include <ctime>
+#include <unistd.h>
 
 namespace cppunitx {
 
@@ -134,7 +135,7 @@ public:
                 r.status == Status::CRASH ||
                 r.status == Status::TIMEOUT) {
                 if (!any_fail) {
-                    std::cout << color::apply(color::RED | 0,
+                    std::cout << color::apply(color::RED ,
                         "Failed tests:\n");
                     any_fail = true;
                 }
