@@ -1,5 +1,7 @@
 # CppUnit-X
 
+[![CI](https://github.com/swastikpattjoshi17/CppUnitX/actions/workflows/ci.yml/badge.svg)](https://github.com/swastikpattjoshi17/CppUnitX/actions/workflows/ci.yml)
+
 **A Lightweight, Zero-Dependency C++ Unit Testing Framework**
 
 [![CI](https://github.com/swastikpattjoshi17/CppUnitX/actions/workflows/ci.yml/badge.svg)](https://github.com/swastikpattjoshi17/CppUnitX/actions)
